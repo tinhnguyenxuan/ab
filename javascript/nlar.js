@@ -6,7 +6,7 @@ app.controller('myController', function($scope) {
 	$scope.des = "about me !";
 	$scope.cv = "Công việc";
 	$scope.job1 = "Học Sinh";
-	$scope.job2 = "";
+	$scope.job2 = "coder lổ";
 	$scope.contact = "Thông tin liên lạc";
 	$scope.contact1 = "ZaLo 0852271064";
 	$scope.contact2 = "";
@@ -18,7 +18,7 @@ app.controller('myController', function($scope) {
 	$scope.modal4 = "Email";
 	$scope.modal5 = "Sms";
 	$scope.linkfb = "https://www.facebook.com/nguyen.xuan.tinh.2007";
-	$scope.linkzl = "https://zalo.me/0387017365";
+	$scope.linkzl = "https://zalo.me/0387017368";
 	$scope.linksc = "";
 	$scope.linkgm = "";
 	$scope.phonenumber = "0852271064 - Vinaphone";
