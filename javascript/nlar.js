@@ -8,7 +8,7 @@ app.controller('myController', function($scope) {
 	$scope.job1 = "Học Sinh";
 	$scope.job2 = "coder lổ";
 	$scope.contact = "Thông tin liên lạc";
-	$scope.contact1 = "ZaLo 0852271064";
+	$scope.contact1 = "Phone 0852271064";
 	$scope.contact2 = "";
 	$scope.contactmi = " LIÊN HỆ TÔI";
 	$scope.ifyou = "lol";
