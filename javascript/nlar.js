@@ -18,7 +18,7 @@ app.controller('myController', function($scope) {
 	$scope.modal4 = "Email";
 	$scope.modal5 = "Sms";
 	$scope.linkfb = "https://www.facebook.com/nguyen.xuan.tinh.2007";
-	$scope.linkzl = "https://zalo.me/";
+	$scope.linkzl = "https://zalo.me/0387017365";
 	$scope.linksc = "";
 	$scope.linkgm = "";
 	$scope.phonenumber = "0852271064 - Vinaphone";
