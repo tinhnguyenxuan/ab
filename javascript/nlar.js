@@ -3,7 +3,7 @@ app.controller('myController', function($scope) {
 	$scope.abm = "About Me";
 	$scope.updateInfo = "Updated 15 year ago";
 	$scope.verify = "Verify";
-	$scope.des = "about me !";
+	$scope.des = "Đang Hoạt Động";
 	$scope.cv = "Công việc";
 	$scope.job1 = "Học Sinh";
 	$scope.job2 = "Coder lỏ";
