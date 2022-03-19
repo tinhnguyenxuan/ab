@@ -22,14 +22,14 @@ app.controller('myController', function($scope) {
 	$scope.linksc = "https://t.me/tinh31122007";
 	$scope.linkgm = "";
 	$scope.phonenumber = "0852271064 - Vinaphone";
-	$scope.email = "tinhnx4@gmail.";
+	$scope.email = "tinhnx4@gmail.com";
 	$scope.title2 = "My Story";
 	$scope.contentStory1 = "xin chào bạn đã đến với website about me của mình nha <3";
 	$scope.contentStory2 = "";
 	$scope.storytitle1 = "thanks bạn";
 	$scope.storytitle2 = "";
 	$scope.nothinglikeus = "Thank for watching";
-	$scope.thankall = "";
+	$scope.thankall = "HIHI";
 	$scope.au = "Lmint";
 	$scope.phone = false;
 	$scope.reverse = function () {
