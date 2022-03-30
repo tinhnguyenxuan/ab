@@ -6,7 +6,7 @@ app.controller('myController', function($scope) {
 	$scope.des = "31/12/2007";
 	$scope.cv = "Thông Tin";
 	$scope.job1 = "Học Sinh";
-	$scope.job2 = "Coder Lỏ";
+	$scope.job2 = "2 Tháng Nữa Sẽ ComeBack";
 	$scope.contact = "Thông tin liên lạc";
 	$scope.contact1 = "Phone 0852271064";
 	$scope.contact2 = "Email :tinhnx4@gmail.com";
