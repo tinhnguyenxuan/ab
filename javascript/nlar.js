@@ -29,7 +29,7 @@ app.controller('myController', function($scope) {
 	$scope.storytitle1 = "Thanks bạn";
 	$scope.storytitle2 = "Nhìn gì";
 	$scope.nothinglikeus = "Thank for watching";
-	$scope.thankall = "";
+	$scope.thankall = "I LOVE YOU";
 	$scope.au = "Lmint";
 	$scope.phone = false;
 	$scope.reverse = function () {
