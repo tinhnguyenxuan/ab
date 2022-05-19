@@ -11,7 +11,7 @@ app.controller('myController', function($scope) {
 	$scope.contact1 = "0852271064";
 	$scope.contact2 = "Nguyễn Xuân Tĩnh";
 	$scope.contactmi = " LIÊN HỆ TÔI";
-	$scope.ifyou = "CC";
+	$scope.ifyou = "Con Tác Mi";
 	$scope.modal1 = "Facebook";
 	$scope.modal2 = "Zalo";
 	$scope.modal3 = "Telagram";
@@ -24,7 +24,7 @@ app.controller('myController', function($scope) {
 	$scope.phonenumber = "0852271064 - Vinaphone";
 	$scope.email = "tinhnx4@gmail.com";
 	$scope.title2 = "My Story";
-	$scope.contentStory1 = "Xin chào bạn đã đến với website about me của mình nha <3";
+	$scope.contentStory1 = "Xin chào 🧐🧐";
 	$scope.contentStory2 = "Nhìn CC";
 	$scope.storytitle1 = "Thanks bạn";
 	$scope.storytitle2 = "Nhìn gì";
