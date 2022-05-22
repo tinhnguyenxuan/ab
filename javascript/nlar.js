@@ -26,7 +26,7 @@ app.controller('myController', function($scope) {
 	$scope.title2 = "My Story";
 	$scope.contentStory1 = "Xin chào 🧐🧐";
 	$scope.contentStory2 = "Nhìn CC";
-	$scope.storytitle1 = "Thanks bạn";
+	$scope.storytitle1 = "Vô soi j vậy";
 	$scope.storytitle2 = "Nhìn gì";
 	$scope.nothinglikeus = "Thank for watching";
 	$scope.thankall = "I LOVE YOU";
