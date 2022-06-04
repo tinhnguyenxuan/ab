@@ -23,13 +23,9 @@ app.controller('myController', function($scope) {
 	$scope.linkgm = "mailto:tinhnx4@gmail.com";
 	$scope.phonenumber = "0852271064 - Vinaphone";
 	$scope.email = "tinhnx4@gmail.com";
-	$scope.title2 = "My Story";
-	$scope.contentStory1 = "Xin chào 🧐🧐";
-	$scope.contentStory2 = "Nhìn CC";
-	$scope.storytitle1 = "Vô soi j vậy";
-	$scope.storytitle2 = "Nhìn gì";
-	$scope.nothinglikeus = "Thank for watching";
-	$scope.thankall = "I LOVE YOU";
+
+
+
 	$scope.au = "Lmint";
 	$scope.phone = false;
 	$scope.reverse = function () {
