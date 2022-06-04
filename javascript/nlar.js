@@ -23,9 +23,6 @@ app.controller('myController', function($scope) {
 	$scope.linkgm = "mailto:tinhnx4@gmail.com";
 	$scope.phonenumber = "0852271064 - Vinaphone";
 	$scope.email = "tinhnx4@gmail.com";
-
-
-
 	$scope.au = "Lmint";
 	$scope.phone = false;
 	$scope.reverse = function () {
