@@ -6,12 +6,12 @@ app.controller('myController', function($scope) {
 	$scope.des = "31/12/2007";
 	$scope.cv = "Thông Tin";
 	$scope.job1 = "Học Sinh";
-	$scope.job2 = "";
-	$scope.contact = "Thông tin liên lạc";
-	$scope.contact1 = "0852271064";
-	$scope.contact2 = "Nguyễn Xuân Tĩnh";
+	$scope.job2 = "Dỗ cái cấp 3 đã";
+	$scope.contact = "Thông tin thanh toán";
+	$scope.contact1 = "Momo:0852271064";
+	$scope.contact2 = "MB:Coming soon";
 	$scope.contactmi = " LIÊN HỆ TÔI";
-	$scope.ifyou = "Con Tác Mi";
+	$scope.ifyou = "Rep hơi lâu";
 	$scope.modal1 = "Facebook";
 	$scope.modal2 = "Zalo";
 	$scope.modal3 = "Telagram";
