@@ -2,7 +2,7 @@ var app = angular.module('myApp',[]);
 app.controller('myController', function($scope) {
 	$scope.abm = "About Me";
 	$scope.updateInfo = "Updated 15 year ago";
-	$scope.verify = "Verify";
+	$scope.verify = "Buon";
 	$scope.des = "31/12/2007";
 	$scope.cv = "Thông Tin";
 	$scope.job1 = "Học Sinh";
